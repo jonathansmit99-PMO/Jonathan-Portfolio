@@ -37,7 +37,7 @@ export const ProfileHero: React.FC = () => {
               transition={{ duration: 0.5, delay: 0.1 }}
               className="text-4xl sm:text-5xl lg:text-6xl font-display font-bold text-stone-900 tracking-tight leading-none"
             >
-              The Innovation <span className="text-teal-600 font-extrabold">In Digital & Telecom</span> Growth Specialist
+              Innovation <span className="text-teal-600 font-extrabold">In Digital & Telecom</span> Growth Specialist
             </motion.h1>
 
             <motion.p
