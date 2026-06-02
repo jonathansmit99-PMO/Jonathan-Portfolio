@@ -52,7 +52,7 @@ export const le = {
   linkedin: "https://www.linkedin.com/in/jonathan-smit-3594b162",
   aboutMeParagraphs: [
     "Hi, I am Jonathan Smit. With over 17 years of experience spanning Product Management, Project Leadership, and Telecom Portfolio Strategy, I specialise in bridging the gap between high-level commercial strategy and deep technical execution. Currently, as a Senior Product Manager at SEACOM South Africa, I lead the strategy and lifecycle management for international and local network services, including fiber, wireless, satellite, and SaaS solutions.",
-    "My career is defined by driving end-to-end product value—from ideation and design to go-to-market and profitability. I am deeply passionate about leveraging AI, automation, and agile methodologies to build scalable solutions that power digital-first organizations. My long-term vision is to transition into a Chief Product Officer (CPO) role or pursue high-impact entrepreneurship."
+    "My career is defined by driving end-to-end product value—from ideation and design to go-to-market and profitability. I am deeply passionate about leveraging AI, automation, and agile methodologies to build scalable solutions that power digital-first organisations. My long-term vision is to transition into a Chief Product Officer (CPO) role or pursue high-impact entrepreneurship."
   ],
   vision: "Transitioning into a Chief Product Officer (CPO) role or pursuing high-impact entrepreneurship by architecting solutions that seamlessly bind engineering rigor with commercial strategy."
 };
@@ -71,7 +71,7 @@ export const hs: Competency[] = [
   },
   {
     title: "Commercial & Financial Acumen",
-    description: "Rigorous P&L ownership, complex margin-backed pricing models, and vendor commercial optimization.",
+    description: "Rigorous P&L ownership, complex margin-backed pricing models, and vendor commercial optimisation.",
     details: [
       "Strict P&L analysis and cross-national margin compliance checks",
       "Supplier rate negotiations to enforce ring-fenced pricing",
@@ -84,7 +84,7 @@ export const hs: Competency[] = [
     title: "Technical Innovation & Integrations",
     description: "Leading deep system migrations, automated APIs, Salesforce configuration, and AI enablement.",
     details: [
-      "Legacy modernization (Salesforce org mergers, SAP to Acumatica migrations)",
+      "Legacy modernisation (Salesforce org mergers, SAP to Acumatica migrations)",
       "Carrier-aggregated GEO-location and price-quoting API integrations",
       "Enabling AI-driven productivity and automated workflows",
       "Order-to-cash system automation to eliminate manual quote processing"
@@ -111,9 +111,9 @@ export const fA: GovernanceAccomplishment[] = [
     details: "Supervised junior PMs to support SME and Enterprise sales teams. Oversaw connectivity vendor negotiations, safeguarding ring-fenced business pricing to satisfy the strict margins demanded by the executive board."
   },
   {
-    role: "PMO Leadership & Standardization",
+    role: "PMO Leadership & Standardisation",
     topic: "Directing 6 Project Managers aligned to PMBoK",
-    details: "Constructed and deployed a standardized project delivery governance framework. Assumed absolute accountability for PM KPI tracking, standardizing reporting, risk buffers, and cross-project transparency."
+    details: "Constructed and deployed a standardised project delivery governance framework. Assumed absolute accountability for PM KPI tracking, standardising reporting, risk buffers, and cross-project transparency."
   }
 ];
 
@@ -151,7 +151,7 @@ export const Q0: ProjectData[] = [
         description: "Client satisfaction rating across over 500 Enterprise accounts"
       }
     ],
-    reflection: "Successfully delivering 99.9% network uptime across robust carrier infrastructure reinforced a core tenet: proactive supplier management and strict contract compliance are as essential as the hardware itself. This very project functions as the operational blueprint for negotiating and organizing 13 combined MVNO/FNO suppliers under single scaled offerings."
+    reflection: "Successfully delivering 99.9% network uptime across robust carrier infrastructure reinforced a core tenet: proactive supplier management and strict contract compliance are as essential as the hardware itself. This very project functions as the operational blueprint for negotiating and organising 13 combined MVNO/FNO suppliers under single scaled offerings."
   },
   {
     id: "digital-trans",
@@ -159,7 +159,7 @@ export const Q0: ProjectData[] = [
     company: "SEACOM",
     period: "2024 - 2025",
     category: "e-commerce",
-    challenge: "Modernizing legacy manual customer onboarding and sales cycles by unifying CRM and SAP into a streamlined digital commerce platform.",
+    challenge: "Modernising legacy manual customer onboarding and sales cycles by unifying CRM and SAP into a streamlined digital commerce platform.",
     strategicExecution: [
       "Led end-to-end design of a real-time CRM & core financial ERP platform",
       "Engineered automated quotation models incorporating carrier supplier margins",
@@ -184,17 +184,17 @@ export const Q0: ProjectData[] = [
         description: "Record order fulfillment and billing alignment accuracy"
       }
     ],
-    reflection: "This project underscored how crucial the timing of UX evaluation is. While it delivered solid cost decreases, we realized that user-centric interface testing should happen much earlier in the systems engineering flow. This direct insight inspired me to pursue advanced UX/UI Design credentials so that frontend simplicity matches backend financial rigor (SAP) right from the start."
+    reflection: "This project underscored how crucial the timing of UX evaluation is. While it delivered solid cost decreases, we realised that user-centric interface testing should happen much earlier in the systems engineering flow. This direct insight inspired me to pursue advanced UX/UI Design credentials so that frontend simplicity matches backend financial rigor (SAP) right from the start."
   },
   {
     id: "pmo-trans",
     title: "PMO Transformation & Enterprise Delivery",
     company: "SEACOM",
     category: "pmo",
-    challenge: "Standardizing and digitizing multination delivery pipelines for business connectivity, cloud security, SD-WAN, and voice systems while merging conflicting Salesforce, SAP, and RMM environments under extreme time pressures.",
+    challenge: "Standardising and digitising multination delivery pipelines for business connectivity, cloud security, SD-WAN, and voice systems while merging conflicting Salesforce, SAP, and RMM environments under extreme time pressures.",
     strategicExecution: [
       "Formulated a combined PMBoK & Agile portfolio execution blueprint for multi-site deployments",
-      "Orchestrated a highly complex Salesforce dual-org merger and synchronized SAP to Acumatica transitions",
+      "Orchestrated a highly complex Salesforce dual-org merger and synchronised SAP to Acumatica transitions",
       "Instituted ring-fenced validation safeguards to intercept and resolve margin discrepancies before they entered order-to-cash queues",
       "Deployed real-time risk trackers and service-level indicators to allow proactive recovery operations"
     ],
@@ -212,7 +212,7 @@ export const Q0: ProjectData[] = [
         description: "Directly led and standard-calibrated on PMBOK methodology"
       }
     ],
-    reflection: "Consolidating software systems during wide-scale deployment taught me that system behavior is deeply tied to user behaviors. Unifying databases is only half the battle—the ultimate success factor is standardizing human workflows and mentoring PMs, which allows us to intercept operational drift and protect double-digit margins."
+    reflection: "One lesson from consolidating complex systems: Tech is 50% of the win. The other 50% is people. By implementing a Digital Agile PM methodology in Salesforce across order fulfillment, procurement, change control, and billing, I learned that unifying databases means little without unified workflows. Mentoring PMs and aligning human behavior is what actually prevents drift and protects margins.."
   },
   {
     id: "crisis-mgmt",
@@ -249,7 +249,7 @@ export const Q0: ProjectData[] = [
     company: "Hewlett Packard",
     period: "February 2009 – September 2009",
     category: "pmo",
-    challenge: "Orchestrated the large-scale consolidation and migration of standardized infrastructure from Dell to Hewlett Packard for over 4,500 users across major enterprise clients, including Anglo-American mining operations and their corporate head office, significantly improving system reliability, performance, and security.",
+    challenge: "Orchestrated the large-scale consolidation and migration of standardised infrastructure from Dell to Hewlett Packard for over 4,500 users across major enterprise clients, including Anglo-American mining operations and their corporate head office, significantly improving system reliability, performance, and security.",
     strategicExecution: [
       "Directed the critical execution phase of the project, overseeing comprehensive on-site audits and managing complex issue logs to ensure delivery met all technical and commercial requirements",
       "Facilitated seamless collaboration between diverse technical teams and external partners, including resources from BT, BCX, and Internet Solutions (IS)",
@@ -258,7 +258,7 @@ export const Q0: ProjectData[] = [
     results: [
       {
         metric: "4,500+ Users",
-        description: "Successfully migrated to standardized HP infrastructure from Dell legacy environments"
+        description: "Successfully migrated to standardised HP infrastructure from Dell legacy environments"
       },
       {
         metric: "System Uplift",
@@ -294,7 +294,7 @@ export const hA: CertificationData[] = [
   {
     title: "UX Design Career Accelerator",
     institution: "King’s College London",
-    details: "In-depth specialization in user-centric design, interactive wireframing (Miro), high-fidelity modeling, qualitative/quantitative testing, and user-flows."
+    details: "In-depth specialisation in user-centric design, interactive wireframing (Miro), high-fidelity modeling, qualitative/quantitative testing, and user-flows."
   },
   {
     title: "Agile Frameworks Certification",
