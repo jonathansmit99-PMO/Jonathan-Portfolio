@@ -37,7 +37,7 @@ export const ProfileHero: React.FC = () => {
               transition={{ duration: 0.5, delay: 0.1 }}
               className="text-4xl sm:text-5xl lg:text-6xl font-display font-bold text-stone-900 tracking-tight leading-none"
             >
-              Architecting <span className="text-teal-600 font-extrabold">Telecom Solutions</span> and Digital Systems
+              The Innovation <span className="text-teal-600 font-extrabold">In Digital & Telecom</span> Growth Specialist
             </motion.h1>
 
             <motion.p
@@ -46,7 +46,7 @@ export const ProfileHero: React.FC = () => {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="text-lg text-stone-600 font-medium leading-relaxed font-sans"
             >
-              Bridging the gap between high-level commercial strategy and deep billing, platform, and infrastructure execution.
+              Bridging Navigating the nexus of high-level commercial strategy and the deep-tier execution of commercial models, platforms, and carrier-grade infrastructure.
             </motion.p>
 
             <motion.div
